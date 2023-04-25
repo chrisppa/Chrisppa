@@ -1,17 +1,18 @@
-name: Latest blog post workflow
+name: Update README with latest blog posts
 on:
   schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
-  workflow_dispatch:
+    - cron: '0 * * * *' # run every hour
 
 jobs:
-  update-readme-with-blog:
-    name: Update this repos README with latest blog posts
+  update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          max_post_count: "4"
-          feed_list: "https://dev.to/feed/itszed0"
+    - name: Checkout code
+      uses: actions/checkout@v2
+    - name: Install dependencies
+      run: |
+        sudo apt-get update && sudo apt-get -y install python3-pip
+        pip3 install feedparser
+    - name: Update README with latest blog posts
+      run: |
+        python3 update_readme.py
