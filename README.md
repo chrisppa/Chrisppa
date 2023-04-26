@@ -21,7 +21,7 @@
 </h1>
 </div>
 <div align="center">
-  <img src="https://media3.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47cr33gq3ymelojlevdk2lzntybjp6qrqtbte3y69b&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" height="300"/>
+  <img src="https://media2.giphy.com/media/E89xxATM4iZoPdr6Tb/200w.webp?cid=ecf05e47y315agns94uylx02ytycxayyzdp1rr3hyt1cjwyf&ep=v1_gifs_related&rid=200w.webp&ct=g" width="600" height="300"/>
 </div>
 ---
 
@@ -31,7 +31,7 @@ I am a Computer Science student at Makerere University <img src="https://media.g
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I do some coding with flutter, it is just fun, I also love gaming, do you play Pubg mobile, haha.
+- :zap: In my free time, I do some coding with flutter <img src="https://media2.giphy.com/media/E89xxATM4iZoPdr6Tb/200w.webp?cid=ecf05e47y315agns94uylx02ytycxayyzdp1rr3hyt1cjwyf&ep=v1_gifs_related&rid=200w.webp&ct=g" width="30">, it is just fun, I also love gaming, do you play Pubg mobile, haha.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Chris-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/turyasiima-crispus-465b4123b)
 ---
