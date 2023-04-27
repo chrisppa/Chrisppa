@@ -12,19 +12,18 @@
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=chrisppa&style=flat-square&color=blue" alt=""/>
-<h1>
+<h3>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-<h1>
+</h3>
+<h2>
   Am CHRIS TURYASIIMA
-</h1>
+</h2>
   <div align="center">
   <img src="https://media2.giphy.com/media/E89xxATM4iZoPdr6Tb/200w.webp?cid=ecf05e47y315agns94uylx02ytycxayyzdp1rr3hyt1cjwyf&ep=v1_gifs_related&rid=200w.webp&ct=g" width="600" height="300"/>
 </div>
 </div>
 
----
 
 ### :man_technologist: About Me :
 I am a Computer Science student at Makerere University <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uganda.
@@ -35,7 +34,7 @@ I am a Computer Science student at Makerere University <img src="https://media.g
 - :zap: In my free time, I do some coding with flutter <img src="https://media2.giphy.com/media/E89xxATM4iZoPdr6Tb/200w.webp?cid=ecf05e47y315agns94uylx02ytycxayyzdp1rr3hyt1cjwyf&ep=v1_gifs_related&rid=200w.webp&ct=g" width="30">, it is just fun, I also love gaming, do you play Pubg mobile, haha.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Chris-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/turyasiima-crispus-465b4123b)
----
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -59,10 +58,9 @@ I am a Computer Science student at Makerere University <img src="https://media.g
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
----
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chrisppa&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisppa&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
----
+
 
