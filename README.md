@@ -19,10 +19,11 @@
 <h1>
   Am CHRIS TURYASIIMA
 </h1>
-</div>
-<div align="center">
+  <div align="center">
   <img src="https://media2.giphy.com/media/E89xxATM4iZoPdr6Tb/200w.webp?cid=ecf05e47y315agns94uylx02ytycxayyzdp1rr3hyt1cjwyf&ep=v1_gifs_related&rid=200w.webp&ct=g" width="600" height="300"/>
 </div>
+</div>
+
 ---
 
 ### :man_technologist: About Me :
