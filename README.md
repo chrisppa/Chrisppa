@@ -65,6 +65,3 @@ I am a Computer Science student at Makerere University <img src="https://media.g
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisppa&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
