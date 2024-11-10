@@ -20,14 +20,14 @@
   Am CHRIS TURYASIIMA
 </h2>
   <div align="center">
-  <img src="https://media2.giphy.com/media/E89xxATM4iZoPdr6Tb/200w.webp?cid=ecf05e47y315agns94uylx02ytycxayyzdp1rr3hyt1cjwyf&ep=v1_gifs_related&rid=200w.webp&ct=g" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/5XgKMD8Zqi405fw6CD/giphy.gif?cid=790b7611b2sezz7ioyhmuasu1ygk5t0rai6hhq2g16w5rw4i&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" height="300"/>
 </div>
 </div>
 
 
 ### :man_technologist: About Me :
-I am a Computer Science student at Makerere University <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uganda.
-- :telescope: I’m working as a Software Developer and contributing to frontend and backend for building web applications, mobile applications and am also doing robotics.
+I am a Computer Science graduate student at Makerere University <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uganda.
+- :telescope: I’m working as a Software Developer and contributing to frontend and backend for building web applications using react, mobile applications and am also doing robotics.
 
 - :seedling: Exploring Technical Content Writing.
 
@@ -58,8 +58,6 @@ I am a Computer Science student at Makerere University <img src="https://media.g
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chrisppa&theme=dark&background=000000)](https://git.io/streak-stats)
