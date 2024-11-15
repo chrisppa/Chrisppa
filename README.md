@@ -20,7 +20,7 @@
   Am CHRIS TURYASIIMA
 </h2>
   <div align="center">
-  <img src="https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif?cid=790b7611b2sezz7ioyhmuasu1ygk5t0rai6hhq2g16w5rw4i&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" height="300"/>
+  <img src="https://media3.giphy.com/media/LS2WElet7iL31i3bxh/giphy.webp?cid=790b7611c90oo6njmu39p6h2esfahudaotahiix6008k9cke&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="600" height="300"/>
 </div>
 </div>
 
