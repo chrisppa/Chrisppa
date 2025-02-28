@@ -27,7 +27,7 @@
 
 ### :man_technologist: About Me :
 I am a Computer Science graduate student at Makerere University <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uganda.
-- :telescope: I’m working as a Software Developer and contributing to frontend and backend for building web applications using react, mobile applications and am also doing robotics.
+- :telescope: I'm working as a Software Developer and contributing to frontend and backend for building web applications using react, mobile applications and am also doing robotics.
 
 - :seedling: Exploring Technical Content Writing.
 
@@ -59,8 +59,21 @@ I am a Computer Science graduate student at Makerere University <img src="https:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+### :trophy: GitHub Metrics :
+<div align="center">
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=chrisppa&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br><br>
+  
+  <!-- Contribution Badges -->
+  <a href="https://github.com/chrisppa">
+    <img src="https://img.shields.io/github/followers/chrisppa?style=for-the-badge&logo=github" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/chrisppa?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-View%20All-brightgreen?style=for-the-badge&logo=github" alt="GitHub Repositories"/>
+  </a>
+</div>
+
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chrisppa&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisppa&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
