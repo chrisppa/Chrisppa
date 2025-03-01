@@ -61,10 +61,6 @@ I am a Computer Science graduate student at Makerere University <img src="https:
 
 ### :trophy: GitHub Metrics :
 <div align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=chrisppa&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br><br>
-  
   <!-- Contribution Badges -->
   <a href="https://github.com/chrisppa">
     <img src="https://img.shields.io/github/followers/chrisppa?style=for-the-badge&logo=github" alt="GitHub Followers"/>
