@@ -59,17 +59,6 @@ I am a Computer Science graduate student at Makerere University <img src="https:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-### :trophy: GitHub Metrics :
-<div align="center">
-  <!-- Contribution Badges -->
-  <a href="https://github.com/chrisppa">
-    <img src="https://img.shields.io/github/followers/chrisppa?style=for-the-badge&logo=github" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/chrisppa?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-View%20All-brightgreen?style=for-the-badge&logo=github" alt="GitHub Repositories"/>
-  </a>
-</div>
-
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chrisppa&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisppa&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
