@@ -24,19 +24,23 @@
 </div>
 </div>
 
+---
 
-### :man_technologist: About Me :
-I am a Computer Science graduate student at Makerere University <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Uganda.
-- :telescope: I'm working as a Software Developer and contributing to frontend and backend for building web applications using react, mobile applications and am also doing robotics.
+### 🌳 About Me 🌿
+👋 Hi, I'm Crispy Codes!
 
-- :seedling: Exploring Technical Content Writing.
+- 🔭 I'm working as a Frontend Developer specializing in React, Next.js, and TypeScript, crafting pixel-perfect web experiences and building responsive, accessible applications.
 
-- :zap: In my free time, I do some coding with flutter <img src="https://media2.giphy.com/media/E89xxATM4iZoPdr6Tb/200w.webp?cid=ecf05e47y315agns94uylx02ytycxayyzdp1rr3hyt1cjwyf&ep=v1_gifs_related&rid=200w.webp&ct=g" width="30">, it is just fun, I also love gaming, do you play Pubg mobile, haha.
+- 🌱 Exploring Technical Content Writing and UI/UX best practices.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Chris-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/turyasiima-crispus-465b4123b)
+- ⚡ In my free time, I'm gaming (PUBG Mobile, COD, FIFA) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and building fun projects with Flutter <img src="https://media2.giphy.com/media/E89xxATM4iZoPdr6Tb/200w.webp?cid=ecf05e47y315agns94uylx02ytycxayyzdp1rr3hyt1cjwyf&ep=v1_gifs_related&rid=200w.webp&ct=g" width="30">.
 
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Chris-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/turyasiima-crispus-465b4123b)
 
-### :hammer_and_wrench: Languages and Tools :
+---
+🍃🌿🌳🌲🍃🌿🌳🌲🍃🌿🌳🌲🍃🌿🌳🌲🍃🌿🌳🌲🍃🌿🌳🌲🍃🌿🌳🌲🍃🌿
+
+### 🔨 Languages and Tools 🛠️
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
@@ -59,5 +63,13 @@ I am a Computer Science graduate student at Makerere University <img src="https:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-### :fire: My Stats :
+---
+🌲🌴🌵🌳🌲🌴🌵🌳🌲🌴🌵🌳🌲🌴🌵🌳🌲🌴🌵🌳🌲🌴🌵🌳🌲🌴🌵🌳🌲
+
+### 🔥 My Stats 🔥
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisppa&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+<p align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</p>
