@@ -38,7 +38,7 @@
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Chris-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/turyasiima-crispus-465b4123b)
 
 ---
-🍃🌿🌳🌲🍃🌿🌳🌲🍃🌿🌳🌲🍃🌿🌳🌲🍃🌿🌳🌲🍃🌿🌳🌲🍃🌿🌳🌲🍃🌿
+🪵🕰️🕰️🕰️🕰️🕰️🔨
 
 ### 🔨 Languages and Tools 🛠️
 <div>
@@ -64,7 +64,7 @@
 </div>
 
 ---
-🌲🌴🌵🌳🌲🌴🌵🌳🌲🌴🌵🌳🌲🌴🌵🌳🌲🌴🌵🌳🌲🌴🌵🌳🌲🌴🌵🌳🌲
+👨🏿‍🎤★★★★★🔥
 
 ### 🔥 My Stats 🔥
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisppa&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
