@@ -60,7 +60,7 @@
   <img src="https://cdn.brandfetch.io/idVoqFQ-78/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1691083841359" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://cdn.brandfetch.io/idZAyF9rlg/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1719469970995" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" title="Kaggle" alt="Kaggle" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" title="Kaggle" alt="Kaggle" width="40" height="30"/>&nbsp;
 </div>
 
 
