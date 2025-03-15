@@ -29,7 +29,7 @@
 ### 🌳 About Me 🌿
 👋 Hi, I'm Crispy Codes!
 
-- 🔭 I'm working as a Frontend Developer specializing in React, Next.js, and TypeScript, crafting pixel-perfect web experiences and building responsive, accessible applications.
+- 🔭 I'm working as a Frontend Developer specializing in React, Next.js, Javascript/TypeScript, crafting pixel-perfect web experiences and building responsive, accessible applications.
 
 - 🌱 Exploring Technical Content Writing and UI/UX best practices.
 
