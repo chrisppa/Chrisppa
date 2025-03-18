@@ -17,7 +17,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h3>
 <h2>
-  Am CHRIS TURYASIIMA
+  Am CHRIS🤓
 </h2>
   <div align="center">
   <img src="https://media3.giphy.com/media/LS2WElet7iL31i3bxh/giphy.webp?cid=790b7611c90oo6njmu39p6h2esfahudaotahiix6008k9cke&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="600" height="300"/>
